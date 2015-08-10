@@ -38,7 +38,10 @@ Step 	| Description | Duration | Notes
 
 * Started on 07.08.2015.
 * Soaked quinoa for ~12 hours
-* After ~12 hours most grains sprouted (rinsed and drained once)
+* After ~12 hours most grains sprouted (rinsed and drained once) 
+* Refilled the jar with water 3 times 
+  
+	![](batch-01.jpg "This picture is from the third time the jar has been refilled with water")
 
 ### Byproducts
 
