@@ -1,7 +1,7 @@
 # Recipes
 
 1. [Raw almond *cheese*](recipes/raw-almond-cheese)
-* 
+* [Rejuvelac](recipes/rejuvelac)
 
 
 ### License

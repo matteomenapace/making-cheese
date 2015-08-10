@@ -1,0 +1,52 @@
+# Rejuvelac (quinoa)
+
+> A non-alcoholic fermented liquid made from sprouted grains. 
+
+> Because it is fermented, Rejuvelac contains beneficial bacteria and active enzymes, and thus it can improve digestion of food.
+
+> From [Wikipedia](https://en.wikipedia.org/wiki/Rejuvelac)
+
+Yields about 4 cups.
+
+## Ingredients
+
+Name | Quantity
+---- | --------
+quinoa | 1/2 cup
+water | ~3 cups 
+
+## Tools
+
+* Jar
+* Cheese-cloth
+
+## Method
+
+Step 	| Description | Duration | Notes
+---- 	| ----------- | -------- | ----- 
+1		| Soak the quinoa (cover them with cold water) | 8 to 12 hours
+2		| Drain
+3		| Secure the jar with cheesecloth. Rinse and drain until you see sprouts. | Less than 24 hours 
+4 		| Fill the jar with water, cover with a lid.
+5 		| Leave at room temperature, out of direct sunlight | 2-3 days | Until the water is cloudy and bubbly
+6		| Strain out the seeds | | You can turn the strained sprouts into another batch of rejuvelac by refilling the jar with water and let it sit for another couple of days
+7 		| Refrigerate the liquid (which is now acid-rich rejuvelac) | | It keeps in the fridge for 3-4 weeks. 
+
+## Experiments
+
+### Batch 1
+
+* Started on 07.08.2015.
+* Soaked quinoa for ~12 hours
+* After ~12 hours most grains sprouted (rinsed and drained once)
+
+### Byproducts
+
+What could be done with the following?
+
+* Sprouted quinoa
+
+### TODO
+
+- [ ] How many batches of rejuvelac can you make with one batch of quinoa seeds? How does the resulting rejuvelac change?
+- [ ] How does the rejuvelac change when kept in the fridge?
