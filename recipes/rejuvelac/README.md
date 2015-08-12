@@ -47,7 +47,7 @@ Step 	| Description | Duration | Notes
 
 What could be done with the following?
 
-* Sprouted quinoa
+* Sprouted quinoa: [this maybe?](http://www.mynewroots.org/site/2008/01/organic-garden-in-your-kitchen-2/)
 
 ### TODO
 
