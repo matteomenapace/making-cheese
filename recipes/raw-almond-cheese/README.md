@@ -28,6 +28,8 @@ water | 6 cups
 * Container with non-permeable lid (for the almond+rejuvelac mixture culture)
 * Pan (to prepare the agar+water mixture)
 * Cheese-cloth
+* Bowl (large) for brine
+* Cloth to cover brine bowl
 
 ## Method
 
@@ -45,32 +47,43 @@ Step 	| Description | Duration | Notes
 10		| Pour the liquified agar into the almond+rejuvelac culture and combine
 11		| Pour the mixture into the cheese-cloth lined container | | *Close it hermetically? Probably not (to be confirmed)* 
 12		| Refrigerate until hard | Several hours | *How many? How hard?*
+13		| In a large bowl, mix together water and salt (see [brine](#brine) quantities) | |
+14		| Cut the cheese into a few pieces (eg 4) and place it in the brine | | 
+15 	| Cover with a cloth and let sit. | *8 hours?*
 
 ## Experiments
 
 ### Batch 1
 
-* Started on 08.08.2015.
-* Measured 1 cup of dry almonds (and then halved the other ingredients). It's not clear yet if the 2 cups measure refers to dry or soaked. Soaked almonds are heavier and more voluminous than dry ones.
-* Used fresh quinoa rejuvelac (just drained from the sprouts)
-* The mixture came out a bit grainy and not as smooth as it could (due to blender not working well with small quantities)
-* Left to culture for ~30 hours (morning 09.08 - afternoon 10.08), average temperature ~26C
+* 08.08.2015
+	* Measured 1 cup of dry almonds (and then halved the other ingredients). It's not clear yet if the 2 cups measure refers to dry or soaked. Soaked almonds are heavier and more voluminous than dry ones.
+* 09.08.2015
+	* Used fresh quinoa rejuvelac (just drained from the sprouts)
+	* The mixture came out a bit grainy and not as smooth as it could (due to blender not working well with small quantities)
+	* Left to culture for ~30 hours (morning 09.08 - afternoon 10.08), average temperature ~26C
  
 	![](culture-batch-01.jpg)
-* After pouring the agar+almond+rejuvelac mixture into a cloth-lined container, covered it with a non-permeable lid and placed it in the fridge (*temperature?*)  
+* 10.08.2015
+	* After pouring the agar+almond+rejuvelac mixture into a cloth-lined container, covered it with a non-permeable lid and placed it in the fridge (*temperature?*)  
   
 	![](solidify-batch-01.jpg)
-* Kept in the fridge for ~20 hours, and it hadn't solidified. It was slightly harder than the day before, but still rather soft (say, like a ricotta) and moist. Probably because of the lid.
-* Removed the lid and placed it back in the fridge. 	 
+* 11.08.2015 
+	* Kept in the fridge for ~20 hours, and it hadn't solidified. It was slightly harder than the day before, but still rather soft (say, like a ricotta) and moist. Probably because of the lid.
+	* Removed the lid and placed it back in the fridge. 
+* 12.08.2015 
+	* After a day, the mixture has solidified a bit (although is not nearly as hard as traditional feta), so took it out of the fridge and into the brine	 
 
 
 ### Batch 2
 
-* Started on 09.08.2015.
-* Used refrigerated quinoa rejuvelac (one day in the fridge), and slightly more than a cup (~1.2 cups) to get the mixture smoother.
-* Left to culture for ~24 hours (morning 10.08 - morning 11.08), average temperature ~26C
-* Placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the fridge (without lid)
-* After 6 hours in the fridge, flipped the cheese mould upside down and soaked up a bit of moisture with kitchen paper
+* 09.08.2015
+	* Soaked almonds (2 cups, measured dry)
+* 10.08.2015
+	* Used refrigerated quinoa rejuvelac (one day in the fridge), and slightly more than a cup (~1.2 cups) to get the mixture smoother.
+	* Left to culture for ~24 hours (morning 10.08 - morning 11.08), average temperature ~26C
+* 11.08.2015
+	* Placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the fridge (without lid)
+	* After 6 hours in the fridge, flipped the cheese mould upside down and soaked up a bit of moisture with kitchen paper
 
 	![](solidify-batch-02.jpg)
 
@@ -88,3 +101,7 @@ What could be done with the following?
 
 - [ ] Try juice from sauerkraut instead of rejuvelac
 - [ ] Measures in g / ml instead of cups?
+
+<!--
+ See https://www.youtube.com/watch?v=7jS35hfiMHc
+-->
