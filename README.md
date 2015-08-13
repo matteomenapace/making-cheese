@@ -1,6 +1,6 @@
 # Recipes
 
-1. [Raw almond *cheese*](recipes/raw-almond-cheese)
+1. [Raw almond *feta*](recipes/raw-almond-feta)
 * [Rejuvelac](recipes/rejuvelac)
 
 
