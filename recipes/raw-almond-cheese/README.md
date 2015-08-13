@@ -1,6 +1,6 @@
-# Raw almond *cheese*
+# Raw almond *feta*
 
-This is supposed to become a yummy vegan raw *feta*.
+Based on Miyoko Shinner's recipe from [The Homemade Vegan Pantry](https://www.google.co.uk/shopping/product/15771574996979029873)
 
 Yields: XX g of *cheese* (to-be-discovered).
 
@@ -72,6 +72,7 @@ Step 	| Description | Duration | Notes
 	* Removed the lid and placed it back in the fridge. 
 * 12.08.2015 
 	* After a day, the mixture has solidified a bit (although is not nearly as hard as traditional feta), so took it out of the fridge and into the brine	 
+	* A few (~3) hours into the brine and the pieces were melting away, so took it out and place it in a container. Consistency: like a spread
 
 
 ### Batch 2
@@ -86,7 +87,13 @@ Step 	| Description | Duration | Notes
 	* After 6 hours in the fridge, flipped the cheese mould upside down and soaked up a bit of moisture with kitchen paper
 
 	![](solidify-batch-02.jpg)
-
+* 13.08.2015 
+	* Still quite moist and not hard at all: if you tried to cut it it wouldn't keep its shape.
+	* Changed the cheesecloth and placed it in the oven at ~40C, without container. The aim is to dry it up as much as possibly, so it may take a few hours
+	* Moisture seems to be a big problem. Possible solutions: 
+		* squeezing the moisture out of the almond+rejuvelac culture before mixing in the agar powder
+		* activating the agar properly, see [this video](https://www.youtube.com/watch?v=oa8rA7hT5dc)
+		* use a container that can let the cheese breathe (maybe on a slanted surface to let the liquid get away)
 
 
 
