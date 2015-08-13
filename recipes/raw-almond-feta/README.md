@@ -23,13 +23,14 @@ water | 6 cups
 
 ## Tools
 
-* Bowl (to soak almonds)
+* Bowl/jar, to soak the almonds
 * Blender
-* Container with non-permeable lid (for the almond+rejuvelac mixture culture)
-* Pan (to prepare the agar+water mixture)
+* Container/jar with non-permeable lid, for the almond+rejuvelac mixture culture
+* Pan, to prepare the agar+water mixture
 * Cheese-cloth
-* Bowl (large) for brine
-* Cloth to cover brine bowl
+* Cheese mould (or a strainer) 
+* Bowl (large) for the brine
+* Cloth to cover the brine bowl
 
 ## Method
 
@@ -41,11 +42,10 @@ Step 	| Description | Duration | Notes
 4 		| Blend almonds, rejuvelac and salt. | 1-2 minutes | Until smooth an no longer grainy
 5 		| Pour the mixture into a container and cover with a non-permeable lid. | | *The mixture shouldn't breathe, hence the non-permeable lid?*
 6		| Leave the mixture to **culture** | 1-2 days | Taste it regularly, until it begins to get **tangy**. In warmer weather it could take just a day, while in colder weather it could be 2 days or even more.
-7		| Line a container with cheese-cloth | | *Dimensions?* 
-8		| In a pan, mix water + agar powder and whisk ||
-9 		| Cover with a lid and simmer, until it bubbles. | 3-4 minutes | The mixture may seem to solidify after ~2 minutes. If you let it simmer over low heat for a couple more minutes it will liquify again and bubble away
+7		| Line a mould with cheese-cloth | | *Dimensions?* 8		| In a pan, mix water + agar powder and whisk ||
+9 		| Cover with a lid and simmer, until it bubbles. | 4-5 minutes | The mixture may seem to solidify after ~2 minutes. If you let it simmer over low heat for a couple more minutes it will liquify again and bubble away. <br><br>At this point it may be good to test squeezing the water out of the culture, before mixing in the melted agar
 10		| Pour the liquified agar into the almond+rejuvelac culture and combine
-11		| Pour the mixture into the cheese-cloth lined container | | *Close it hermetically? Probably not (to be confirmed)* 
+11		| Pour the mixture into the cheese-cloth lined mould/strainer | | It needs to breathe and lose the moist
 12		| Refrigerate until hard | Several hours | *How many? How hard?*
 13		| In a large bowl, mix together water and salt (see [brine](#brine) quantities) | |
 14		| Cut the cheese into a few pieces (eg 4) and place it in the brine | | 
