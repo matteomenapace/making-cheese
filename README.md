@@ -1,7 +1,8 @@
 # Recipes
 
-1. [Raw almond *feta*](recipes/raw-almond-feta)
-* [Rejuvelac](recipes/rejuvelac)
+1. [Rejuvelac](recipes/rejuvelac)
+* [Raw almond *feta*](recipes/raw-almond-feta)
+* [Raw almond *gruyere*](recipes/raw-almond-gruyere)
 
 
 ### License
