@@ -35,6 +35,7 @@ Step 	| Description | Duration | Notes
 4 		| Blend almonds, rejuvelac and salt. | 1-2 minutes | Until smooth an no longer grainy
 5 		| Pour the mixture into a container and cover with a non-permeable lid. | | *The mixture shouldn't breathe, hence the non-permeable lid?* Or maybe it should breathe.. [see notes below](#batch-1)
 6		| Leave the mixture to **culture** | 1-2 days | Taste it regularly, until it begins to get **tangy**. In warmer weather it could take just a day, while in colder weather it could be 2 days or even more.
+
 <!--7		| Line a container with cheese-cloth | | *Dimensions?* 
 8		| In a pan, mix water + agar powder and whisk ||
 9 		| Cover with a lid and simmer, until it bubbles. | 3-4 minutes | The mixture may seem to solidify after ~2 minutes. If you let it simmer over low heat for a couple more minutes it will liquify again and bubble away
@@ -56,7 +57,7 @@ Step 	| Description | Duration | Notes
 	![](almonds-batch-01.jpg)
 	* Used refrigerated quinoa rejuvelac (5 days in the fridge)
 	* Used immersion blender, first with only the almonds, trying to get them as smooth as possible (without burning the blender!) and then added in 1/3 cup rejuvelac and a pinch of salt
-	* Didn't close the lid hermetically, but left it slightly open instead. Little pockets of air started to form on inside the culture
+	* Didn't close the lid hermetically, left it **slightly open** instead. Little pockets of air started to form inside the culture
 	![](culture-batch-01.jpg)
 		
 <!--* 09.08.2015

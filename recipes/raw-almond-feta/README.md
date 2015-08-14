@@ -88,7 +88,7 @@ Step 	| Description | Duration | Notes
 * 13.08.2015 
 	* Still quite moist and not hard at all: if you tried to cut it it wouldn't keep its shape.
 	* 16:00: changed the cheesecloth and placed it in the oven at ~40C, without container. The aim is to dry it up as much as possible, so it may take a few hours
-	* Moisture seems to be a big problem. Possible solutions: 
+	* **Moisture is a problem**. Possible solutions: 
 		* squeezing the moisture out of the almond+rejuvelac culture before mixing in the agar powder
 		* activating the agar properly, see [this video](https://www.youtube.com/watch?v=oa8rA7hT5dc)
 		* use a container that can let the cheese breathe (maybe on a slanted surface to let the liquid get away)
