@@ -10,41 +10,38 @@ Name | Quantity
 ---- | --------
 blanched almonds | 1 cup 
 [rejuvelac](../rejuvelac) | ~1/3 cup
-salt | 1 pinch
-<!--yeast flakes | 
-miso | -->
+salt | ~1 tsp 
+nutritional yeast | 1 tsp
+yellow miso paste | 1 tsp
 
 ## Tools
 
 * Jar (to soak almonds)
 * Blender
 * Container with non-permeable lid (for the almond+rejuvelac mixture culture)
-
-<!-- * Pan (to prepare the agar+water mixture)
 * Cheese-cloth
-* Bowl (large) for brine
-* Cloth to cover brine bowl-->
+* Bowl (to be lined with cheese-cloth, used to pour in the all-ingredients mixture)
 
 ## Method
 
 Step 	| Description | Duration | Notes
 ---- 	| ----------- | -------- | ----- 
-1		| Soak the almonds | From 8 to 16 hours (overnight) |[See this video](https://www.youtube.com/watch?v=2hqAUFf9RZ8) for steps 1-
+1		| Soak the almonds | From 8 to 16 hours (overnight) |[See this video](https://www.youtube.com/watch?v=2hqAUFf9RZ8) for steps 1-6
 2		| Blanch the almonds if they aren't blanched already. | | This is a tedious and time-consuming task: it may take ~3-10 seconds per almond, and you have 100+ to peel. Consider getting the almonds already blanched. <br><br>Pouring boiling water over the soaked almonds makes the blanching much faster, [see video](https://youtu.be/2hqAUFf9RZ8?t=42s) 
 3		| Drain and rinse the almonds. 
 4 		| Blend almonds, rejuvelac and salt. | 1-2 minutes | Until smooth an no longer grainy
 5 		| Pour the mixture into a container and cover with a non-permeable lid. | | *The mixture shouldn't breathe, hence the non-permeable lid?* Or maybe it should breathe.. [see notes below](#batch-1)
 6		| Leave the mixture to **culture** | 1-2 days | Taste it regularly, until it begins to get **tangy**. In warmer weather it could take just a day, while in colder weather it could be 2 days or even more.
+7		| Mix in the yeast, miso, and a pinch of salt | 1-2 minutes | Until well combined.
+8		| Line a bowl with cheese-cloth | | Big enough for the mixture to fill it, but don't worry about its shape because you won't let the mixture in for long. <br><br>Cheese-cloth must be clean (sterilise it in boiling water before).
+9		| Pour the mixture into the cheese-cloth lined bowl, smooth it out to get rid of the air pockets | | 
+10		| Gather up the cheese-cloth and squeeze out some of the liquid from the mixture || *2-3 tsp?*
+11 	| Tie the cheese-cloth ||
+12		| Sprinkle salt all around it || This should prevent mold from developing
+13 	| Put the cheese onto a grid, or hang it || To let the moisture drain out
+14 	| Let it dry and culture at room temperature | 1-3 days |
 
-<!--7		| Line a container with cheese-cloth | | *Dimensions?* 
-8		| In a pan, mix water + agar powder and whisk ||
-9 		| Cover with a lid and simmer, until it bubbles. | 3-4 minutes | The mixture may seem to solidify after ~2 minutes. If you let it simmer over low heat for a couple more minutes it will liquify again and bubble away
-10		| Pour the liquified agar into the almond+rejuvelac culture and combine
-11		| Pour the mixture into the cheese-cloth lined container | | *Close it hermetically? Probably not (to be confirmed)* 
-12		| Refrigerate until hard | Several hours | *How many? How hard?*
-13		| In a large bowl, mix together water and salt (see [brine](#brine) quantities) | |
-14		| Cut the cheese into a few pieces (eg 4) and place it in the brine | | 
-15 	| Cover with a cloth and let sit. | *8 hours?*-->
+
 
 ## Experiments
 
@@ -59,6 +56,16 @@ Step 	| Description | Duration | Notes
 	* Used immersion blender, first with only the almonds, trying to get them as smooth as possible (without burning the blender!) and then added in 1/3 cup rejuvelac and a pinch of salt
 	* Didn't close the lid hermetically, left it **slightly open** instead. Little pockets of air started to form inside the culture
 	![](culture-batch-01.jpg)
+* 16.08.2015
+	* 13:30: mixed in (red) miso, yeast flakes and a pinch of salt, lined in cheese-cloth, squeezed and hung
+	![](cloth-batch-01.jpg) 
+	* Sprinkled salt on the cheese-cloth	
+	
+### Batch 2
+
+* 16.08.2015
+	* 12:00: soaked 1 cup of dry almonds, temp ~26C	
+	
 		
 <!--* 09.08.2015
 	* Used fresh quinoa rejuvelac (just drained from the sprouts)
