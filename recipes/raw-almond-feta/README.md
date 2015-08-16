@@ -94,10 +94,13 @@ Step 	| Description | Duration | Notes
 		* use a container that can let the cheese breathe (maybe on a slanted surface to let the liquid get away)
 	* Left it in the oven for 5 hours: a slightly darker rind started to form and the whole thing was a bit more solid and dry. Tasted very tangy (too much rejuvelac?)
 	![](oven-batch-02.jpg)
-	* 21:30: wrapped it in new cheese cloth and place it on a grid at room temperature (~26C)	
+	* 21:30: wrapped it in new cheese-cloth and place it on a grid at room temperature (~26C)	
 * 14.08.2015
-	* 11:30 sprinkled salt flakes on the cheese cloth to dry the moisture out
+	* 11:30 sprinkled salt flakes on the cheese-cloth to dry the moisture out
 	![](salted-batch-02.jpg)
+* 16.08.2015 
+	* Getting harder but still quite tangy. A pinkish rind is growing on the outside, whilst the inside is white and drier.
+	* 11:30: unwrapped it, sprinkled salt flakes on the side facing top, then wrapped in cheese-cloth, turned it upside down and sprinkled salt flakes on the cheese-cloth (side facing up)	
 
 
 
