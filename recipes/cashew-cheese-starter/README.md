@@ -50,6 +50,16 @@ Step 	| Description | Duration | Notes
 * 19.08.2015
 	* 14:00: soaked 1 cup of dry cashews (and then halved the other ingredients)
 	* 21:00: started the culture with 1/6 rejuvelac from 11.08
+* 20.08.2015
+	* 21:30: placed culture in the fridge, sealed 	
+	
+### Batch 2
+
+Inspired by the *Cream Cheese* recipe in [The non-dairy Evolution Cookbook](https://www.google.co.uk/shopping/product/17828614656256450270) by Skye Michael Conroy.
+
+* 20.08.2015
+	* 15:00: soaked 1 cup of dry cashews (and then halved the other ingredients) and put them in the fridge
+	* 21:30: started culture with 1/6 cup of coconut oil, 1/3 tsp salt and 2/9 cup of rejuvelac (from 10.08)
 
 <!--* 09.08.2015
 	* Used fresh quinoa rejuvelac (just drained from the sprouts)
@@ -65,10 +75,9 @@ Step 	| Description | Duration | Notes
 * 12.08.2015 
 	* After a day, the mixture has solidified a bit (although is not nearly as hard as traditional feta), so took it out of the fridge and into the brine	 
 	* A few (~3) hours into the brine and the pieces were melting away, so took it out and place it in a container. Consistency: like a spread.
-	* Experiment failed, it's nothing like feta, but the spread was decent (a little too tangy though).-->
+	* Experiment failed, it's nothing like feta, but the spread was decent (a little too tangy though).
 
-
-<!--### Batch 2
+### Batch 2
 
 * 09.08.2015
 	* Soaked cashews (2 cups, measured dry)
