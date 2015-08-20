@@ -59,12 +59,22 @@ Step 	| Description | Duration | Notes
 * 16.08.2015
 	* 13:30: mixed in (red) miso, yeast flakes and a pinch of salt, lined in cheese-cloth, squeezed and hung
 	![](cloth-batch-01.jpg) 
-	* Sprinkled salt on the cheese-cloth	
+	* Sprinkled salt on the cheese-cloth
+* 18.08.2015
+	* 10:30: opened up the cheese-cloth and tasted the thing. Miso flavour overwhelms the rest, and it does still taste a bit too tangy (*rajuvelacy* as we started to call it)  
+* 20.08.2015
+	* 11:00: transferred in the fridge (in a sealed box)  	
 	
 ### Batch 2
 
 * 16.08.2015
-	* 12:00: soaked 1 cup of dry almonds, temp ~26C	
+	* 12:00: soaked 1 cup of dry almonds, temp ~26C for ~9 hours
+	* 21:00: started almond+rejuvelac culture
+* 18.08.2015	
+	* 11:00: mixed in yeast flakes and a pinch of salt, lined in cheese-cloth, squeezed and hung
+	* No miso in this one, but a bit more yeast (abundant tsp)
+	* Sprinkled salt on the cheese-cloth
+	 
 	
 		
 <!--* 09.08.2015
