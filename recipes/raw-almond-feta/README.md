@@ -100,8 +100,11 @@ Step 	| Description | Duration | Notes
 	![](salted-batch-02.jpg)
 * 16.08.2015 
 	* Getting harder but still quite tangy. A pinkish rind is growing on the outside, whilst the inside is white and drier.
-	* 11:30: unwrapped it, sprinkled salt flakes on the side facing top, then wrapped in cheese-cloth, turned it upside down and sprinkled salt flakes on the cheese-cloth (side facing up)	
-
+	* 11:30: unwrapped it, sprinkled salt flakes on the side facing top, then wrapped in cheese-cloth, turned it upside down and sprinkled salt flakes on the cheese-cloth (side facing up)
+* 19.08.2015
+	* 14:00: had some in a pasta dish. The rind wouldn't melt, but the inside eventually would dissolve. Tastes still bit too tangy (*rajuvelacy* as we started to call it) 
+* 20.08.2015
+	* 11:00: transferred in the fridge (in a sealed box) 
 
 
 ### Byproducts
