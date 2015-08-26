@@ -42,8 +42,9 @@ Step 	| Description | Duration | Notes
 4 		| Blend almonds, rejuvelac and salt. | 1-2 minutes | Until smooth an no longer grainy
 5 		| Pour the mixture into a container and cover with a non-permeable lid. | | *The mixture shouldn't breathe, hence the non-permeable lid?*
 6		| Leave the mixture to **culture** | 1-2 days | Taste it regularly, until it begins to get **tangy**. In warmer weather it could take just a day, while in colder weather it could be 2 days or even more.
-7		| Line a mould with cheese-cloth | | *Dimensions?* 8		| In a pan, mix water + agar powder and whisk ||
-9 		| Cover with a lid and simmer, until it bubbles. | 4-5 minutes | The mixture may seem to solidify after ~2 minutes. If you let it simmer over low heat for a couple more minutes it will liquify again and bubble away. <br><br>At this point it may be good to test squeezing the water out of the culture, before mixing in the melted agar
+7		| Line a mould with cheese-cloth | | *Dimensions?* 
+8		| In a pan, mix water + agar powder and whisk ||
+9 		| Cover with a lid and simmer, until it bubbles. | 4-5 minutes | The mixture may seem to solidify after ~2 minutes. If you let it simmer over low heat for a couple more minutes it will liquify again and bubble away. <br><br>At this point it may be good to test squeezing the water out of the culture, before mixing in the melted agar. <br><br>See [this video](https://www.youtube.com/watch?v=oa8rA7hT5dc)
 10		| Pour the liquified agar into the almond+rejuvelac culture and combine
 11		| Pour the mixture into the cheese-cloth lined mould/strainer | | It needs to breathe and lose the moist. *Maybe it doesn't need the container, just the cheese-cloth.*
 12		| Refrigerate until hard | Several hours | *How many? How hard?* More than a day, and it was still moist (see notes below). *Maybe it doesn't need to stay in the fridge*
@@ -102,9 +103,25 @@ Step 	| Description | Duration | Notes
 	* Getting harder but still quite tangy. A pinkish rind is growing on the outside, whilst the inside is white and drier.
 	* 11:30: unwrapped it, sprinkled salt flakes on the side facing top, then wrapped in cheese-cloth, turned it upside down and sprinkled salt flakes on the cheese-cloth (side facing up)
 * 19.08.2015
-	* 14:00: had some in a pasta dish. The rind wouldn't melt, but the inside eventually would dissolve. Tastes still bit too tangy (*rajuvelacy* as we started to call it) 
+	* 14:00: had some in a pasta dish. The rind wouldn't melt, but the inside eventually would dissolve. Tastes still bit too tangy (*rejuvelacy* as we started to call it) 
 * 20.08.2015
 	* 11:00: transferred in the fridge (in a sealed box) 
+
+### Batch 3
+
+* 24.08.2015
+	* 14:00: soaked cashews (1 cup, measured dry)
+	* 22:00: used refrigerated quinoa rejuvelac (10.08), 1/4 cup.
+* 26.08.2015
+	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+cashew+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)	
+	
+### Batch 4
+
+* 24.08.2015
+	* 14:00: soaked almonds (1 cup, measured dry)
+	* 22:00: used refrigerated quinoa rejuvelac (11.08), 1/4 cup + 1/8 cup fresh water to smoothen it.* 26.08.2015
+* 26.08.2015	
+	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)	
 
 
 ### Byproducts
