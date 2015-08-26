@@ -60,6 +60,31 @@ Inspired by the *Cream Cheese* recipe in [The non-dairy Evolution Cookbook](http
 * 20.08.2015
 	* 15:00: soaked 1 cup of dry cashews (and then halved the other ingredients) and put them in the fridge
 	* 21:30: started culture with 1/6 cup of coconut oil, 1/3 tsp salt and 2/9 cup of rejuvelac (from 10.08)
+	
+	
+### Batch 3
+
+Inspired by the *Cream Cheese* recipe in [The non-dairy Evolution Cookbook](https://www.google.co.uk/shopping/product/17828614656256450270) by Skye Michael Conroy.
+
+* 22.08.2015
+	* 11:00: soaked 1 cup of dry **almonds** (and then halved the other ingredients)
+	* 20:30: started culture with 1/6 cup of coconut oil, 1/3 tsp salt and 2/9 cup of sauerkraut water, and a bit of hemp milk (it wouldn't blend otherwise)
+* 23.08.2015	
+	* 22:00: refrigerated it 
+	
+### Batch 4
+
+Inspired by the *Cream Cheese* recipe in [The non-dairy Evolution Cookbook](https://www.google.co.uk/shopping/product/17828614656256450270) by Skye Michael Conroy.
+
+* 22.08.2015
+	* 11:00: soaked 1 cup of dry cashews (and then halved the other ingredients) 
+	* 20:00: started culture with 1/6 cup of coconut oil, 1/3 tsp salt and 2/9 cup of sauerkraut water
+* 23.08.2015	
+	* 22:00: refrigerated it		
+
+
+
+
 
 <!--* 09.08.2015
 	* Used fresh quinoa rejuvelac (just drained from the sprouts)
