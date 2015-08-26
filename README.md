@@ -3,6 +3,7 @@
 1. [Rejuvelac](recipes/rejuvelac)
 * [Raw almond *feta*](recipes/raw-almond-feta)
 * [Raw almond *gruyere*](recipes/raw-almond-gruyere)
+* [Raw cashew cheese starter](recipes/cashew-cheese-starter)
 
 
 ### License
