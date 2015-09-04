@@ -60,6 +60,15 @@ Inspired by the *Cream Cheese* recipe in [The non-dairy Evolution Cookbook](http
 * 20.08.2015
 	* 15:00: soaked 1 cup of dry cashews (and then halved the other ingredients) and put them in the fridge
 	* 21:30: started culture with 1/6 cup of coconut oil, 1/3 tsp salt and 2/9 cup of rejuvelac (from 10.08)
+
+* 01.09.2015
+	* Finished eating it. 
+	
+Overall, a decent result.
+
+Tasted like cream-cheese, with a slightly tangy taste. 
+
+Coconut oil keeps it in shape. 	Be careful when choosing coconut oil, make sure it doesn't have a strong flavour (otherwise the cheese will have an overwhelming coconut taste).
 	
 	
 ### Batch 3
@@ -69,8 +78,18 @@ Inspired by the *Cream Cheese* recipe in [The non-dairy Evolution Cookbook](http
 * 22.08.2015
 	* 11:00: soaked 1 cup of dry **almonds** (and then halved the other ingredients)
 	* 20:30: started culture with 1/6 cup of coconut oil, 1/3 tsp salt and 2/9 cup of sauerkraut water, and a bit of hemp milk (it wouldn't blend otherwise)
+
 * 23.08.2015	
 	* 22:00: refrigerated it 
+
+* 01.09.2015
+	* Disposed as it fermented beyond the point of being edible. It never really tasted good, probably because of the weird combination of sauerkraut and coconut aftertaste (and the hemp milk didn't help).
+	
+Overall, not a satisfying result. 
+
+Sauerkraut water has an overwhelming taste, so we should use rejuvelac instead.
+
+Coconut oil should have a gentle taste, otherwise it will make the whole product taste like coconut. We're using it to make the cheese feel creamier and keep in shape, not taste like coconut. 		
 	
 ### Batch 4
 
@@ -82,7 +101,14 @@ Inspired by the *Cream Cheese* recipe in [The non-dairy Evolution Cookbook](http
 * 23.08.2015	
 	* 22:00: refrigerated it		
 
+* 01.09.2015
+	* * Finished eating it. It never really tasted good, probably because of the weird combination of sauerkraut and coconut aftertaste.
+	
+Overall, not a satisfying result. 
 
+Sauerkraut water has an overwhelming taste, so we should use rejuvelac instead.
+
+Coconut oil should have a gentle taste, otherwise it will make the whole product taste like coconut. We're using it to make the cheese feel creamier and keep in shape, not taste like coconut.
 
 
 

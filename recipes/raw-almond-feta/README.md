@@ -58,17 +58,21 @@ Step 	| Description | Duration | Notes
 
 * 08.08.2015
 	* Measured 1 cup of dry almonds (and then halved the other ingredients). It's not clear yet if the 2 cups measure refers to dry or soaked. Soaked almonds are heavier and more voluminous than dry ones.
+
 * 09.08.2015
 	* Used fresh quinoa rejuvelac (just drained from the sprouts)
 	* The mixture came out a bit grainy and not as smooth as it could (due to blender not working well with small quantities)
 	* Left to culture for ~30 hours (morning 09.08 - afternoon 10.08), average temperature ~26C
 	![](culture-batch-01.jpg)
+
 * 10.08.2015
 	* After pouring the agar+almond+rejuvelac mixture into a cloth-lined container, covered it with a non-permeable lid and placed it in the fridge (*temperature?*)  
 	![](solidify-batch-01.jpg)
+
 * 11.08.2015 
 	* Kept in the fridge for ~20 hours, and it hadn't solidified. It was slightly harder than the day before, but still rather soft (say, like a ricotta) and moist. Probably because of the lid.
 	* Removed the lid and placed it back in the fridge. 
+
 * 12.08.2015 
 	* After a day, the mixture has solidified a bit (although is not nearly as hard as traditional feta), so took it out of the fridge and into the brine	 
 	* A few (~3) hours into the brine and the pieces were melting away, so took it out and place it in a container. Consistency: like a spread.
@@ -79,13 +83,16 @@ Step 	| Description | Duration | Notes
 
 * 09.08.2015
 	* Soaked almonds (2 cups, measured dry)
+
 * 10.08.2015
 	* Used refrigerated quinoa rejuvelac (one day in the fridge), and slightly more than a cup (~1.2 cups) to get the mixture smoother.
 	* Left to culture for ~24 hours (morning 10.08 - morning 11.08), average temperature ~26C
+
 * 11.08.2015
 	* Placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the fridge (without lid)
 	* After 6 hours in the fridge, flipped the cheese mould upside down and soaked up a bit of moisture with kitchen paper
 	![](solidify-batch-02.jpg)
+
 * 13.08.2015 
 	* Still quite moist and not hard at all: if you tried to cut it it wouldn't keep its shape.
 	* 16:00: changed the cheesecloth and placed it in the oven at ~40C, without container. The aim is to dry it up as much as possible, so it may take a few hours
@@ -96,14 +103,18 @@ Step 	| Description | Duration | Notes
 	* Left it in the oven for 5 hours: a slightly darker rind started to form and the whole thing was a bit more solid and dry. Tasted very tangy (too much rejuvelac?)
 	![](oven-batch-02.jpg)
 	* 21:30: wrapped it in new cheese-cloth and place it on a grid at room temperature (~26C)	
+
 * 14.08.2015
 	* 11:30 sprinkled salt flakes on the cheese-cloth to dry the moisture out
 	![](salted-batch-02.jpg)
+
 * 16.08.2015 
 	* Getting harder but still quite tangy. A pinkish rind is growing on the outside, whilst the inside is white and drier.
 	* 11:30: unwrapped it, sprinkled salt flakes on the side facing top, then wrapped in cheese-cloth, turned it upside down and sprinkled salt flakes on the cheese-cloth (side facing up)
+
 * 19.08.2015
 	* 14:00: had some in a pasta dish. The rind wouldn't melt, but the inside eventually would dissolve. Tastes still bit too tangy (*rejuvelacy* as we started to call it) 
+
 * 20.08.2015
 	* 11:00: transferred in the fridge (in a sealed box) 
 
@@ -112,6 +123,7 @@ Step 	| Description | Duration | Notes
 * 24.08.2015
 	* 14:00: soaked cashews (1 cup, measured dry)
 	* 22:00: used refrigerated quinoa rejuvelac (10.08), 1/4 cup.
+
 * 26.08.2015
 	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+cashew+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)
 * 27.08.2015
@@ -125,13 +137,25 @@ Step 	| Description | Duration | Notes
 * 24.08.2015
 	* 14:00: soaked blanched almonds (1 cup, measured dry)
 	* 22:00: used refrigerated quinoa rejuvelac (11.08), 1/4 cup + 1/8 cup fresh water to smoothen it.* 26.08.2015
+
 * 26.08.2015	
 	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)
+
 * 27.08.2015
 	* 14:00: took the cheese-cloth out of the container and placed in on a grid to dry, sprinkled slat on the cheese-cloth 		
+
 * 28.08.2015
 	* 21:00: tasted a slice, it's yummy.. maybe it needs a bit more salt, but it's creamy and sharp!
 	* 21:30: sprinkled with salt and placed inside a sealed glass container, and in the fridge 
+
+	
+### Batch 5
+
+* 31.08.2015
+	* 22:00: soaked **175g** almonds (1 cup, measured dry)
+
+* 01.09.2015	
+	* 21:00: used refrigerated quinoa rejuvelac (11.08), **125ml** (1/4 cup) + 125ml fresh water to smoothen it, and 1tsp of salt flakes (non iodised).
 
 
 ### Byproducts

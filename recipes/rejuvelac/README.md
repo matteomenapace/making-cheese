@@ -26,7 +26,7 @@ Step 	| Description | Duration | Notes
 ---- 	| ----------- | -------- | ----- 
 1		| Soak the quinoa (cover them with cold water) | 8 to 12 hours
 2		| Drain
-3		| Secure the jar with cheesecloth. Rinse and drain until you see sprouts. | Less than 24 hours 
+3		| Secure the jar with cheese-cloth. Rinse and drain until you see sprouts. | Less than 24 hours 
 4 		| Fill the jar with water, cover with a lid.
 5 		| Leave at room temperature, out of direct sunlight | 2-3 days | Until the water is cloudy and bubbly
 6		| Strain out the seeds | | You can turn the strained sprouts into another batch of rejuvelac by refilling the jar with water and let it sit for another couple of days
@@ -42,6 +42,17 @@ Step 	| Description | Duration | Notes
 * Refilled the jar with water 3 times 
   
 	![](batch-01.jpg "This picture is from the third time the jar has been refilled with water")
+	
+### Batch 2
+
+* 01.09.2015
+	* Evening: soaked 1/2 cup quinoa overnight
+
+* 02.09.2015
+	* Morning: rinsed and drained a 2-3 times, until the water in the jar was clear, then covered with a cheese-cloth and let it out at room temperature (~23-25C)
+
+* 03.09.2015
+	* Morning: a few seeds have sprouted, will wait until the evening 	 	 	
 
 ### Byproducts
 
