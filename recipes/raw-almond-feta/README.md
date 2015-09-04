@@ -113,15 +113,25 @@ Step 	| Description | Duration | Notes
 	* 14:00: soaked cashews (1 cup, measured dry)
 	* 22:00: used refrigerated quinoa rejuvelac (10.08), 1/4 cup.
 * 26.08.2015
-	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+cashew+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)	
+	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+cashew+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)
+* 27.08.2015
+	* 14:00: took the cheese-cloth out of the container and placed in on a grid to dry, sprinkled slat on the cheese-cloth 		
+* 28.08.2015
+	* 21:00: tasted a slice, it's yummy.. maybe it needs a bit more salt, but it's creamy (reminds me of brie)!
+	* 21:30: sprinkled with salt and placed inside a sealed glass container, and in the fridge 	
 	
 ### Batch 4
 
 * 24.08.2015
-	* 14:00: soaked almonds (1 cup, measured dry)
+	* 14:00: soaked blanched almonds (1 cup, measured dry)
 	* 22:00: used refrigerated quinoa rejuvelac (11.08), 1/4 cup + 1/8 cup fresh water to smoothen it.* 26.08.2015
 * 26.08.2015	
-	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)	
+	* 21:30: used 1/3 cup water and 1 tbsp agar powder; placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the bread-bin (without lid)
+* 27.08.2015
+	* 14:00: took the cheese-cloth out of the container and placed in on a grid to dry, sprinkled slat on the cheese-cloth 		
+* 28.08.2015
+	* 21:00: tasted a slice, it's yummy.. maybe it needs a bit more salt, but it's creamy and sharp!
+	* 21:30: sprinkled with salt and placed inside a sealed glass container, and in the fridge 
 
 
 ### Byproducts
