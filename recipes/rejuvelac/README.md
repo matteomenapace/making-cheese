@@ -8,6 +8,8 @@
 
 Yields about 4 cups.
 
+Based on Miyoko Shinner's recipe, and [this video](https://youtu.be/B693ZIdF_3oo)
+
 ## Ingredients
 
 Name | Quantity
