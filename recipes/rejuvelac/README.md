@@ -52,7 +52,14 @@ Step 	| Description | Duration | Notes
 	* Morning: rinsed and drained a 2-3 times, until the water in the jar was clear, then covered with a cheese-cloth and let it out at room temperature (~23-25C)
 
 * 03.09.2015
-	* Morning: a few seeds have sprouted, will wait until the evening 	 	 	
+	* Morning: a few seeds have sprouted, will wait until the evening 	 
+
+Gone bad...
+
+#Batch 3
+
+* 15.09.2015
+    * 18:30: soaked 100g of white quinoa in cold water	 	
 
 ### Byproducts
 
