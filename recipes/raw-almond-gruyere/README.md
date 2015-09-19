@@ -61,7 +61,7 @@ Step 	| Description | Duration | Notes
 	![](cloth-batch-01.jpg) 
 	* Sprinkled salt on the cheese-cloth
 * 18.08.2015
-	* 10:30: opened up the cheese-cloth and tasted the thing. Miso flavour overwhelms the rest, and it does still taste a bit too tangy (*rajuvelacy* as we started to call it)  
+	* 10:30: opened up the cheese-cloth and tasted the thing. Miso flavour overwhelms the rest, and it does still taste a bit too tangy (*rejuvelacy* as we started to call it)  
 * 20.08.2015
 	* 11:00: transferred in the fridge (in a sealed box)  	
 	
@@ -76,44 +76,14 @@ Step 	| Description | Duration | Notes
 	* Sprinkled salt on the cheese-cloth
 	 
 	
-		
-<!--* 09.08.2015
-	* Used fresh quinoa rejuvelac (just drained from the sprouts)
-	* The mixture came out a bit grainy and not as smooth as it could (due to blender not working well with small quantities)
-	* Left to culture for ~30 hours (morning 09.08 - afternoon 10.08), average temperature ~26C
- 
-	![](culture-batch-01.jpg)
-* 10.08.2015
-	* After pouring the agar+almond+rejuvelac mixture into a cloth-lined container, covered it with a non-permeable lid and placed it in the fridge (*temperature?*)  
-  
-	![](solidify-batch-01.jpg)
-* 11.08.2015 
-	* Kept in the fridge for ~20 hours, and it hadn't solidified. It was slightly harder than the day before, but still rather soft (say, like a ricotta) and moist. Probably because of the lid.
-	* Removed the lid and placed it back in the fridge. 
-* 12.08.2015 
-	* After a day, the mixture has solidified a bit (although is not nearly as hard as traditional feta), so took it out of the fridge and into the brine	 
-	* A few (~3) hours into the brine and the pieces were melting away, so took it out and place it in a container. Consistency: like a spread
+### Batch 3
 
+* 18.09.2015
+	* 21:00: soaked 250g of dry blanched almonds (not organic), temp ~21C
 
-### Batch 2
-
-* 09.08.2015
-	* Soaked almonds (2 cups, measured dry)
-* 10.08.2015
-	* Used refrigerated quinoa rejuvelac (one day in the fridge), and slightly more than a cup (~1.2 cups) to get the mixture smoother.
-	* Left to culture for ~24 hours (morning 10.08 - morning 11.08), average temperature ~26C
-* 11.08.2015
-	* Placed the agar+almond+rejuvelac mixture into a cloth-lined container and in the fridge (without lid)
-	* After 6 hours in the fridge, flipped the cheese mould upside down and soaked up a bit of moisture with kitchen paper
-
-	![](solidify-batch-02.jpg)
-* 13.08.2015 
-	* Still quite moist and not hard at all: if you tried to cut it it wouldn't keep its shape.
-	* Changed the cheesecloth and placed it in the oven at ~40C, without container. The aim is to dry it up as much as possibly, so it may take a few hours
-	* Moisture seems to be a big problem. Possible solutions: 
-		* squeezing the moisture out of the almond+rejuvelac culture before mixing in the agar powder
-		* activating the agar properly, see [this video](https://www.youtube.com/watch?v=oa8rA7hT5dc)
-		* use a container that can let the cheese breathe (maybe on a slanted surface to let the liquid get away)-->
+* 19.09.2015 
+	* 10:00: blended almond + rejuvelac (100g) and a pinch of salt
+	
 
 
 
