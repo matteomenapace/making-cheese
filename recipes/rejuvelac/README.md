@@ -58,10 +58,32 @@ Step 	| Description | Duration | Notes
 
 Gone bad...
 
-#Batch 3
+# Batch 3
 
 * 15.09.2015
-    * 18:30: soaked 100g of white quinoa in cold water	 	
+    * 18:30: soaked 100g of white quinoa (by Despar, not organic) in cold water
+
+* 16.09.2015
+    * 09:30: rinsed to let it sprout, leaving a couple spoons of water in so that seeds don't dry out	
+    14:00: rinsed again
+    20:00: rinsed once more, very little sprouting going on
+
+* 17.09.2015
+    13:00: some sprouts, decided to move on to the next step and covered with fresh water
+
+* 19.09.2015 
+    09:00: liquid is bubbly and cloudy, smells like rejuvelac, let's bottle it	
+
+
+# Batch 4
+
+* 18.09.2015
+    * 20:30: soaked 50g of white quinoa (by Ecor, organic) in cold water
+
+* 19.09.2015
+    * 09:00: rinsed to let it sprout, leaving a couple spoons of water in so that seeds don't dry out. There are already quite a few sprouts.
+
+	
 
 ### Byproducts
 
