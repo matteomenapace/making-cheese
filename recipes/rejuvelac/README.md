@@ -83,6 +83,9 @@ Gone bad...
 * 19.09.2015
     * 09:00: rinsed to let it sprout, leaving a couple spoons of water in so that seeds don't dry out. There are already quite a few sprouts.
 
+* 21.09.2015
+    * 14:30: bubbly and cloudy with almost all seeds sprouted, let's bottle it and then fill it with new water to start a new batch..
+
 	
 
 ### Byproducts
