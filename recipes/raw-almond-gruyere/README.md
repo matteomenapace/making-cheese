@@ -79,11 +79,23 @@ Step 	| Description | Duration | Notes
 ### Batch 3
 
 * 18.09.2015
-	* 21:00: soaked 250g of dry blanched almonds (not organic), temp ~21C
+   * 21:00: soaked 250g of dry blanched almonds (not organic), temp ~21C
 
 * 19.09.2015 
-	* 10:00: blended almond + rejuvelac (100g) and a pinch of salt
+   * 10:00: blended almonds + rejuvelac (100g, batch 3) and a pinch of salt
+
+* 21.09.2015
+    * 15:30: mixed in a tsp of black salt and one of yeast flakes, then wrapped in cheese-cloth, sprinkled salt on the outside and hanged in a dry place (~20C)
+
 	
+### Batch 4
+
+* 21.09.2015
+   * 15:00: soaked 250g of dry blanched almonds (not organic), temp ~21C
+
+* 22.09.2015 
+   * 10:00: blended almonds + rejuvelac (150g, batch 4, the one from organic quinoa) but no salt; placed in in a container and covered with a lid (not sealed though). There's 50% more rejuvelac than the previous batch, which means the mix is smoother and it was easier to blend, supposedly it will also culture more quickly
+
 
 
 
