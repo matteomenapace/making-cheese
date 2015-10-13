@@ -14,7 +14,7 @@ Based on Miyoko Shinner's recipe, and [this video](https://youtu.be/B693ZIdF_3oo
 
 Name | Quantity
 ---- | --------
-quinoa | 1/2 cup
+quinoa | 80g (1/2 cup)
 water | ~3 cups 
 
 ## Tools
@@ -86,7 +86,12 @@ Gone bad...
 * 21.09.2015
     * 14:30: bubbly and cloudy with almost all seeds sprouted, let's bottle it and then fill it with new water to start a new batch..
 
-	
+
+# Batch 5
+
+* 13.10.2015
+    * 20:00: soaked 80g of white quinoa (by Suma, organic) in cold water	
+
 
 ### Byproducts
 
