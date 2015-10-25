@@ -163,8 +163,8 @@ Step 	| Description | Duration | Notes
 * 24.10.2015
 	* 21:00: soaked **300g** almonds (2 cups, measured dry)
 
-* 01.09.2015	
-	* 21:00: used refrigerated quinoa rejuvelac, **250ml** (1 cup) + 125ml fresh water to smoothen it, and 1tsp of pink salt (non iodised).
+* 25.10.2015	
+	* 11:30: used refrigerated quinoa rejuvelac, **250ml** (1 cup) + 125ml fresh water to smoothen it, and 1tsp of pink salt (non iodised).
 
 
 ### Byproducts
