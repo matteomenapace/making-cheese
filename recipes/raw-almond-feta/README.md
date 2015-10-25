@@ -158,6 +158,15 @@ Step 	| Description | Duration | Notes
 	* 21:00: used refrigerated quinoa rejuvelac (11.08), **125ml** (1/4 cup) + 125ml fresh water to smoothen it, and 1tsp of salt flakes (non iodised).
 
 
+### Batch 6
+
+* 24.10.2015
+	* 21:00: soaked **300g** almonds (2 cups, measured dry)
+
+* 01.09.2015	
+	* 21:00: used refrigerated quinoa rejuvelac, **250ml** (1 cup) + 125ml fresh water to smoothen it, and 1tsp of pink salt (non iodised).
+
+
 ### Byproducts
 
 What could be done with the following?
