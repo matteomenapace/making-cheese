@@ -166,6 +166,9 @@ Step 	| Description | Duration | Notes
 * 25.10.2015	
 	* 11:30: used refrigerated quinoa rejuvelac, **250ml** (1 cup) + 125ml fresh water to smoothen it, and 1tsp of pink salt (non iodised).
 
+* 30.10.2015	
+	* 11:30: split cultured mix in two and poured them into cheese-cloth, squeezed out a bit of liquid (couple of tbsp each) and then coated the cheese-cloth with pink salt. Hung
+
 
 ### Byproducts
 
