@@ -169,6 +169,15 @@ Step 	| Description | Duration | Notes
 * 30.10.2015	
 	* 11:30: split cultured mix in two and poured them into cheese-cloth, squeezed out a bit of liquid (couple of tbsp each) and then coated the cheese-cloth with pink salt. Hung
 
+	
+### Batch 7
+
+* 17.11.2015
+	* 14:00: soaked **300g** almonds (2 cups, measured dry)
+
+* 18.11.2015	
+	* 09:00: used **250ml** (1 cup) of refrigerated quinoa rejuvelac and 1tsp of salt flakes.
+
 
 ### Byproducts
 
